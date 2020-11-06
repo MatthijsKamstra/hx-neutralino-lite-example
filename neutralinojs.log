@@ -1,0 +1,689 @@
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] init
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] init
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:131: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:67: fullscreenBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:71: dialogOpenBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:75: dialogSaveBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:79: writeFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:83: readFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:119: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:55: fullscreenBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:121: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:67: writeFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:96: {
+	success : true
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:105: {
+	content : hello world 1604653227517
+
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:123: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:123: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:123: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:67: writeFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:123: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:97: {
+	success : true
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:123: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:124: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:67: writeFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:124: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:125: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:67: writeFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:125: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:72: readFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:105: readFile
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:108: {
+	content : hello world 1604653334658
+
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:125: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:125: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:72: readFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:105: readFile
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:108: {
+	content : hello world 1604653334658
+
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:72: readFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:105: readFile
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:108: {
+	content : hello world 1604653334658
+
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:72: readFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:125: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:72: readFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:125: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:72: readFileBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:108: {
+	content : hello world 1604653334658
+
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:158: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:79: putDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:158: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:79: putDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:158: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:79: putDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:159: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:79: putDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:170: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:170: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:84: getDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:84: getDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:170: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:79: putDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:102: Data saved to storage/test.json
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:84: getDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:113: The data you requested for 
+
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:115: {
+	item : 10
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:84: getDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:115: {
+	item : 10
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:170: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:115: {
+	item : 10
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:170: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:84: getDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:113: The data you requested for 
+
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:115: {
+	item : 10
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:79: putDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:102: Data saved to storage/test.json
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:84: getDataBtn
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:113: The data you requested for 
+
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:115: {
+	item : 10
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:170: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:173: getSettings()
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:175: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:62: fullscreenBtn - onclick
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:175: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:173: getSettings()
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:175: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:97: putData()
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:110: Data saved to storage/test.json
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:91: getDataBtn - onclick
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:175: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:173: getSettings()
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:175: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+ERROR [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/Socket.cpp:Bind] Socket::bind error: Address already in use
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:173: getSettings()
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:175: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:175: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:173: getSettings()
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:175: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:173: getSettings()
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:175: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:56: customizeTrace - set
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:173: getSettings()
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:49: init - after custom trace
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:175: {
+	appname : hx-neutralino, 
+	appport : 5006, 
+	mode : window, 
+	window : {
+		alwaysontop : false, 
+		borderlesswindow : false, 
+		enableinspector : false, 
+		fullscreen : false, 
+		height : 700, 
+		iconfile : neutralino.png, 
+		title : Haxe Neutralino app, 
+		width : 1000
+	}
+}
+INFO [/Users/codecey/Desktop/untitled folder/neutralinojs/core-macos/src/core/debug.cpp:log] src/Main.hx:86: putDataBtn - onclick

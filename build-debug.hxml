@@ -1,0 +1,9 @@
+--class-path src
+--class-path externs
+--main Main
+--js bin/assets/app.js
+--dce full
+# -D js-es=6
+-D state=debug
+
+--cmd cp .template/index.html bin/index.html
