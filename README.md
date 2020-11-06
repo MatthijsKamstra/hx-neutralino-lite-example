@@ -6,6 +6,12 @@ Read more about it in the [README_HAXE.MD](README_HAXE.MD)!
 
 ![](icon.png)
 
+## early
+
+I tested the macos default features, and I was not that impressed... you should be carefull to use neutralino for now...
+
+
+
 ## Haxe
 
 You need to have neutralino cli installed
